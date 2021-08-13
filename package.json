@@ -20,7 +20,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
-    "next": "^9.2.2",
+    "next": "^11.1.0",
     "next-images": "^1.4.0",
     "react": "^16.13.0",
     "react-cli": "^0.3.1",
